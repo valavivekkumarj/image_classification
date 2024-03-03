@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+numpy
+pillow
+tensorflow==2.15.0
+# -e .
